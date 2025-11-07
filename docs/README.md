@@ -1,5 +1,13 @@
-# Documentación del Proyecto
+# 🌱 Climate Ambassadors Profiles
 
-Aquí se incluirán la visión, metodología y materiales del modelo **From Seed to Shift**.
+This folder contains the individual profiles of the **Climate Living Labs Ambassadors**.
 
-🌱 *Climate Living Labs* combina innovación social, educación climática y tecnología regenerativa para transformar pequeños gestos en grandes impactos.
+Each profile highlights:
+- 🌍 Ambassador name and region  
+- 🎯 Focus area (education, sustainability, innovation, etc.)  
+- 💡 Ongoing projects  
+- 🤝 Collaborations and impact stories  
+
+---
+
+> “Every Ambassador represents a living connection between local communities and global regeneration.”
