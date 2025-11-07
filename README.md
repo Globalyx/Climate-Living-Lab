@@ -1,114 +1,114 @@
 # 🌱 Climate Living Labs: From Seed to Shift
 
-**Por Carolina Hedman**  
+**By Carolina Hedman**  
 *Swedish Climate Pact Ambassador (EU) & Founder, Globalyx*  
 📧 caro@dtswe.com | 📞 +46 79 038 17 67  
 
 ---
 
-> “We don't build laboratories. We cultivate living systems of care, courage and creativity.”  
+> “We don't build laboratories. We cultivate living systems of care, courage, and creativity.”  
 > — *Carolina Hedman*
 
 ---
 
-## 🌍 ¿Qué es Climate Living Labs?
+## 🌍 What is Climate Living Labs?
 
-**Climate Living Labs: From Seed to Shift** es una red de **espacios híbridos** donde la acción climática florece desde pequeños gestos —una semilla, un residuo, un juego— transformando la conciencia individual en **sistemas colectivos de regeneración**.
+**Climate Living Labs: From Seed to Shift** is a network of **hybrid spaces** where climate action grows from small gestures — a seed, a piece of waste, a game — transforming individual awareness into **collective regeneration systems**.
 
-El modelo combina:
-- 🌿 Innovación social  
-- 🧠 Educación climática  
-- ⚙️ Tecnología y datos  
-- 💫 Participación comunitaria  
-
----
-
-## 🌀 Filosofía
-
-**De la semilla al sistema.**  
-Cada acción cuenta: desde un café reutilizado hasta una comunidad regenerativa conectada.
-
-En los Climate Living Labs **no hablamos del clima, lo cultivamos.**  
-Creamos espacios donde la educación, la tecnología y la creatividad local se unen.
+The model combines:  
+- 🌿 Social innovation  
+- 🧠 Climate education  
+- ⚙️ Technology and data  
+- 💫 Community participation  
 
 ---
 
-## 🧩 Estructura del programa
+## 🌀 Philosophy
 
-| Pilar | Descripción |
-|-------|--------------|
-| 🌍 **Hybrid Spaces** | Creamos entornos físicos y digitales donde comunidades experimentan soluciones reales. |
-| 🤝 **Co-design** | Co-creamos soluciones circulares y educativas con impacto local. |
-| 📈 **Scalable Impact** | Escalamos microgestos hacia macrotransformaciones. |
-| 🧭 **Climate Ambassadors** | 20 líderes regionales que acompañan procesos y documentan aprendizajes. |
+**From seed to system.**  
+Every action counts — from a reused coffee cup to a connected regenerative community.
 
----
-
-## 🪶 Misión
-
-- Impulsar **acción climática cotidiana** desde la educación y la innovación.  
-- Facilitar redes locales de **aprendizaje, experimentación y regeneración**.  
-- Fortalecer la conexión entre **ciudadanía, ciencia y creatividad**.
+In Climate Living Labs, **we don’t talk about the climate — we cultivate it.**  
+We create spaces where education, technology, and local creativity come together.
 
 ---
 
-## 🌐 Contribución al European Climate Pact
+## 🧩 Program Structure
 
-Climate Living Labs se alinea con los **4 pilares del Pacto Climático Europeo**:
-
-1. 🌱 **Promover acciones individuales** – transformando gestos diarios en hábitos regenerativos.  
-2. 🏘 **Conectar comunidades locales** – creando ecosistemas híbridos de co-diseño climático.  
-3. 🧭 **Fomentar compromiso a largo plazo** – mediante formación (*Coaches4Climate*) y liderazgo resiliente.  
-4. 💡 **Hacer visible lo invisible** – usando XR, datos y gamificación para visualizar el impacto.
+| Pillar | Description |
+|--------|--------------|
+| 🌍 **Hybrid Spaces** | Physical and digital environments where communities prototype real solutions. |
+| 🤝 **Co-design** | Circular and educational co-creation with local impact. |
+| 📈 **Scalable Impact** | Expanding micro-gestures into systemic transformation. |
+| 🧭 **Climate Ambassadors** | 20 regional leaders documenting and facilitating change. |
 
 ---
 
-## 🕊 Contribución a los ODS
+## 🪶 Mission
 
-| ODS | Acción clave |
-|-----|---------------|
-| **ODS 4** – Educación de calidad | Promovemos aprendizaje inclusivo e híbrido. |
-| **ODS 12** – Producción y consumo responsables | Transformamos residuos en recursos creativos. |
-| **ODS 13** – Acción por el clima | Fomentamos acción sistémica y educación emocional. |
-| **ODS 17** – Alianzas | Creamos redes con gobiernos, empresas y ciudadanía. |
+- Inspire **everyday climate action** through education and innovation.  
+- Build **local networks** of learning, experimentation, and regeneration.  
+- Strengthen the connection between **citizens, science, and creativity**.  
+
+---
+
+## 🌐 Alignment with the European Climate Pact
+
+Climate Living Labs align with the **four pillars of the European Climate Pact**:
+
+1. 🌱 **Promote individual actions** – transforming everyday gestures into regenerative habits.  
+2. 🏘 **Connect local communities** – creating hybrid ecosystems for co-design and participation.  
+3. 🧭 **Support long-term commitment** – through *Coaches4Climate* training and resilient leadership.  
+4. 💡 **Make the invisible visible** – using XR, data, and gamification to visualize impact.  
+
+---
+
+## 🕊 Contribution to the SDGs
+
+| SDG | Key Action |
+|-----|-------------|
+| **SDG 4** – Quality Education | Inclusive and hybrid learning for sustainability. |
+| **SDG 12** – Responsible Consumption and Production | Creative reuse and circular resource transformation. |
+| **SDG 13** – Climate Action | Systemic, emotional, and community-based climate leadership. |
+| **SDG 17** – Partnerships for the Goals | Collaboration among governments, companies, and citizens. |
 
 ---
 
 ## 👥 Climate Ambassadors
 
-Contamos con **20 Climate Ambassadors** que impulsan la red en distintas regiones.  
-Ellos facilitan, documentan y multiplican experiencias locales.
+Our network includes **20 Climate Ambassadors** who drive the initiative in different regions.  
+They facilitate local projects, document learnings, and replicate the *From Seed to Shift* model.
 
-👉 Explora sus perfiles en [`/ambassadors`](./ambassadors/README.md)
+👉 See details in [`/ambassadors`](./ambassadors/README.md)
 
 ---
 
-## 🌿 Sponsor destacado
+## 🌿 Featured Sponsor
 
 ### Honduras – Finca La Huerta Coffee Farm ☕  
-Una finca sostenible que combina **sabiduría agrícola tradicional** con **prácticas regenerativas modernas**, demostrando cómo producir café puede convivir con la biodiversidad y la innovación.
+A sustainable coffee producer that combines **traditional agricultural wisdom** with **modern regenerative practices**, showing how coffee production can coexist with biodiversity and innovation.
 
 ---
 
-## 🤝 Cómo colaborar
+## 🤝 How to Collaborate
 
-- 💚 Ser patrocinador o mentor  
-- 🧩 Apoyar la certificación de *Climate Coaches*  
-- 🧠 Aportar tecnología, datos o infraestructura  
-- 🪴 Crear un *Climate Living Lab* en tu territorio  
+- 💚 Become a sponsor or mentor  
+- 🧩 Support the certification of *Climate Coaches*  
+- 🧠 Contribute technology, data, or infrastructure  
+- 🪴 Launch a *Climate Living Lab* in your region  
 
-📬 Contacto: **caro@dtswe.com**
-
----
-
-## 🕊 Licencia
-
-El contenido se publica bajo licencia **Creative Commons BY-SA 4.0**  
-El código y materiales técnicos (si aplica) bajo **MIT License**.
+📬 Contact: **caro@dtswe.com**
 
 ---
 
-## 🌈 Cierre
+## 🕊 License
+
+This repository is shared under **Creative Commons BY-SA 4.0** for documentation  
+and **MIT License** for technical code or materials (if applicable).
+
+---
+
+## 🌈 Closing
 
 > “Every act, no matter how small, becomes part of a regenerative future we grow together.”  
 > — *Carolina Hedman*
