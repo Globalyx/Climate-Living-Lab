@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/Globalyx/Climate-Living-Lab/blob/main/media/A_banner_header_for_Climate_Living_Labs_titled_%22🌱_.png?raw=true" alt="Climate Living Labs Banner" width="100%">
-</p>
+![Climate Living Labs Banner](https://github.com/Globalyx/Climate-Living-Lab/blob/main/media/A_banner_header_for_Climate_Living_Labs_titled_%22🌱_.png?raw=true)
 
 
 # 🌱 Climate Living Labs: From Seed to Shift
