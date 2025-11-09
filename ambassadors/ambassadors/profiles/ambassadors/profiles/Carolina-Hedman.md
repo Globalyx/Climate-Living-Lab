@@ -61,3 +61,4 @@ Her leadership has been recognized by:
 
 **© 2025 Globalyx | Climate Living Labs Initiative**  
 *Part of the European Climate Pact • From Seed to Shift*
+
