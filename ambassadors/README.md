@@ -13,19 +13,19 @@ Each ambassador facilitates local Living Labs, engages municipalities, schools, 
 
 | 🌍 Region | 👤 Name | 🌐 Profile | 📄 CV |
 |----------|---------|------------|-------|
-| 🇸🇪 Sweden | Carolina Hedman | [Profile](profiles/Carolina-Hedman.md) | [CV](cv/Carolina_Hedman_Climate_Living_Labs_Ambassador_CV.docx) |
-| 🇬🇷 Greece | Evi Makri | [Profile](profiles/Evi-Makri.md) | [CV](cv/Evi-Makri.docx) |
-| 🇬🇷 Greece | Ioannis Pappas | [Profile](profiles/Ioannis-Pappas.md) | [CV](cv/Ioannis-Pappas.docx) |
-| 🇩🇪 Germany | Isabel Arens | [Profile](profiles/Isabel-Arens.md) | [CV](cv/Isabel-Arens.docx) |
-| 🇵🇹 Portugal | Amelia Delgado | [Profile](profiles/Amelia-Delgado.md) | [CV](cv/Amelia-Delgado.docx) |
-| 🇫🇷 France | Monika Borcikowska | [Profile](profiles/Monika-Borcikowska.md) | [CV](cv/Monika-Borcikowska.docx) |
-| 🇭🇺 Hungary | Zsuzsanna Lehel | [Profile](profiles/Zsuzsanna-Lehel.md) | [CV](cv/Zsuzsanna-Lehel.docx) |
-| 🇸🇪 Sweden | Krisztina Kovacs-Schreiner | [Profile](profiles/Krisztina-Kovacs-Schreiner.md) | [CV](cv/Krisztina-Kovacs-Schreiner.docx) |
-| 🇲🇽 Mexico | Rafael Jimenez | [Profile](profiles/Rafael-Jimenez.md) | [CV](cv/Rafael-Jimenez.docx) |
-| 🇭🇳 Honduras | Jorge Lanza | [Profile](profiles/Jorge-Lanza.md) | [CV](cv/Jorge-Lanza.docx) |
-| 🇸🇻 El Salvador | Alex Romero | [Profile](profiles/Alex-Romero.md) | [CV](cv/Alex-Romero.docx) |
-| 🇪🇸 Spain | Manuel Lira | [Profile](profiles/Manuel-Lira.md) | [CV](cv/Manuel-Lira.docx) |
-| 🇧🇴 Bolivia | Sergio García Agreda | [Profile](profiles/Sergio-Garcia-Agreda.md) | [CV](cv/Sergio-Garcia-Agreda.docx) |
+| 🇸🇪 Sweden | Carolina Hedman | Profile | CV |
+| 🇬🇷 Greece | Evi Makri | Profile | CV |
+| 🇬🇷 Greece | Ioannis Pappas | Profile | CV |
+| 🇩🇪 Germany | Isabel Arens | Profile | CV |
+| 🇵🇹 Portugal | Amelia Delgado | Profile | CV |
+| 🇫🇷 France | Monika Borcikowska | Profile | CV |
+| 🇭🇺 Hungary | Zsuzsanna Lehel | Profile | CV |
+| 🇸🇪 Sweden | Krisztina Kovacs-Schreiner | Profile | CV |
+| 🇲🇽 Mexico | Rafael Jimenez | Profile | CV |
+| 🇭🇳 Honduras | Jorge Lanza | Profile | CV |
+| 🇸🇻 El Salvador | Alex Romero | Profile | CV |
+| 🇪🇸 Spain | Manuel Lira | Profile | CV |
+| 🇧🇴 Bolivia | Sergio García Agreda | Profile | CV |
 
 
 ## 📘 How to Add or Edit Your Profile
