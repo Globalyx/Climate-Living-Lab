@@ -13,7 +13,8 @@ Each ambassador facilitates local Living Labs, engages municipalities, schools, 
 
 | 🌍 Region | 👤 Name | 🌐 Profile | 📄 CV |
 |----------|---------|------------|-------|
-| 🇸🇪 Sweden | Carolina Hedman | Profile | CV |
+| 🇸🇪 Sweden | Carolina Hedman | [Profile](profiles/Carolina-Hedman.md) | [CV](cv/Carolina_Hedman_Climate_Living_Labs_Ambassador_CV.docx) |
+
 | 🇬🇷 Greece | Evi Makri | Profile | CV |
 | 🇬🇷 Greece | Ioannis Pappas | Profile | CV |
 | 🇩🇪 Germany | Isabel Arens | Profile | CV |
