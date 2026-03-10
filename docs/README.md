@@ -10,7 +10,7 @@ Area 2 (Governance): Decentralized, youth-led governance models (DAOs) for local
 Area 3 (Digital Public Goods): Open-source Carbon Tracking (powered by Klimatkoll science) and LandOS Lite for soil intelligence.
 
 🛡️ Institutional Backing & Leadership
-Lead: Carolina Salazar (CEO, Industrial Strategist & Director at Women in Tech Sweden).
+Lead: Carolina Headman (CEO, Industrial Strategist & Director at Women in Tech Sweden).
 
 Accreditation: Active Member of UN NAZCA (Global Climate Action).
 
